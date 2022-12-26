@@ -3,7 +3,7 @@
 
 <!-- #### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋 -->
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
+- 🌱 **App development** for Android is my passion, especially apps that solve community problems and positively impact people's lives.
 - 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, and <ins>Jetpack Compose</ins>.
 - 💻 The **Google Technologies** world fascinates me, and I develop applications based on them.
 <!-- ✍️ Writing tech blog posts over my **[Blog Page]()** to help more developers learn from my experience. -->
@@ -39,9 +39,6 @@
     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://rashika1601.github.io/" alt="My site">
     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-  <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
   </p>
 </p> 
 
